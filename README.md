@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stygmates
 - 👀 I’m interested in web dev and best programming practices
-- 🌱 I’m currently learning React.js and Rust
-- 💞️ I’m looking to collaborate on open source projects, mainly in React.js or Rust
+- 🌱 I’m currently writing code in React and Rust
+- 💞️ I’m looking to collaborate on open source projects, mainly in React or Rust
 - 📫 How to reach me: admin@tdtruong.com
