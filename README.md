@@ -2,4 +2,4 @@
 - 👀 I’m interested in web dev and best programming practices
 - 🌱 I’m currently learning React.js and Rust
 - 💞️ I’m looking to collaborate on open source projects, mainly in React.js or Rust
-- 📫 How to reach me: styg.tan.dat@gmail.com
+- 📫 How to reach me: admin@tdtruong.com
